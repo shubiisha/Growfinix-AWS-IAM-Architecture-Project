@@ -1,0 +1,18 @@
+Policy Name:
+AdministratorAccess
+
+Assigned Group:
+Cloud-Admins
+
+Assigned User:
+cloudadmin
+
+Purpose:
+Full administrative access for AWS account management.
+
+Permissions:
+Full access to AWS services.
+
+Security Control:
+Restricted to administrator users only.
+MFA enabled.

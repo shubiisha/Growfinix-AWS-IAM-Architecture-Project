@@ -1,0 +1,25 @@
+Policy Name:
+AWSBillingReadOnlyAccess
+
+Purpose:
+Provides read-only access to AWS Billing and Cost Management information.
+
+Assigned Group:
+Billing-Team
+
+Assigned User:
+billing1
+
+Allowed Actions:
+- View invoices
+- View billing dashboard
+- View cost information
+- View usage reports
+
+Restricted Actions:
+- Create AWS resources
+- Modify infrastructure
+- Manage IAM permissions
+
+Additional Requirement:
+IAM User and Role access to Billing information must be activated in AWS Account Billing Preferences.
