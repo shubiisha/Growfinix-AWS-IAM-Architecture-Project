@@ -31,3 +31,13 @@ Designed a secure IAM architecture for a mock company using AWS IAM.
 ## Project Outcome
 
 Implemented secure role-based access control following AWS IAM best practices.
+
+## 👨‍💻 Author
+
+Shubiisha J
+
+Cloud Computing Intern
+
+Task 2 –  Identity & Access Management (IAM) Architecture
+
+AWS Cloud Internship
